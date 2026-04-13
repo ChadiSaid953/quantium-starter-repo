@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #fdf2f8, #fce7f3);
+}
+
+.container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 18px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.main-title {
+    text-align: center;
+    color: #be185d;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+
+.filter-box {
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    background-color: #fdf2f8;
+    border: 2px solid #f9a8d4;
+    border-radius: 12px;
+}
+
+.radio-label {
+    display: block;
+    font-weight: bold;
+    color: #9d174d;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.radio-items {
+    color: #6b213f;
+    font-size: 16px;
+}
